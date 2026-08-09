@@ -4,6 +4,9 @@
 <p align="center"> 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=delicious-strawberrycake&label=blossoms&color=FFC551&style=for-the-badge" />
+</p>
 
 <p align= "center"> 
 <img src = https://files.catbox.moe/r0b41m.jpeg>
